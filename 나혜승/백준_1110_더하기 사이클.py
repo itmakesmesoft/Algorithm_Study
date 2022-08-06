@@ -3,6 +3,7 @@
 # print(n//10) : 2
 # print(n % 10) :6
 # numbers=(str(n%10)+str((n//10 + n %10)%10))
+# print(numbers)
 # new_number=int(numbers)
 # print(new_number)
 
