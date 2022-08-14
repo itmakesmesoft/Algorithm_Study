@@ -42,15 +42,15 @@
         <td>필수문제</td>
         <td>선택문제</td>
     <tr>
-        <td rowspan='2'>2주차</td>
+        <td rowspan='2'>3주차</td>
         <td>A조</td>
-        <td>정렬 </td>
+        <td>문제 유형을 적어주세요</td>
         <td>
-        1. <a href="https://www.acmicpc.net/problem/18870">좌표 압축</a><br/>
-        2. <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=1210&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&">Ladder1</a><br/>
-        3. <a href="https://www.acmicpc.net/problem/1316">그룹 단어 체커</a><br/>
-        4. <a href="https://leetcode.com/problems/sum-of-digits-in-base-k/">Sum of Digits in Base K</a><br/> 
-        5. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째 수</a><br/>
+        1. <a href="#">문제 이름</a><br/>
+        2. <a href="#">문제 이름</a><br/>
+        3. <a href="#">문제 이름</a><br/>
+        4. <a href="#">문제 이름</a><br/>
+        5. <a href="#">문제 이름</a><br/>
         </td>
         <td>
         + <a href="#">선택 문제</a>
@@ -58,12 +58,12 @@
     </tr>
     <tr>
         <td>B조</td>
-        <td>배열</td>
+        <td>문제 유형을 적어주세요</td>
         <td>
-        1. <a href="https://www.acmicpc.net/problem/4344">평균은 넘겠지</a><br/>
-        2. <a href="https://www.acmicpc.net/problem/10809">알파벳 찾기</a><br/>
-        3. <a href="https://www.acmicpc.net/problem/2941">크로아티아 알파벳</a><br/>
-        4. <a href="https://www.acmicpc.net/problem/1712">손익분기점</a><br/>
+        1. <a href="#">문제 이름</a><br/>
+        2. <a href="#">문제 이름</a><br/>
+        3. <a href="#">문제 이름</a><br/>
+        4. <a href="#">문제 이름</a><br/>
         5. <a href="#">문제 이름</a><br/>
         </td>
         <td>
@@ -244,4 +244,33 @@ push 완료 후 본인 계정의 github 저장소에 들어오면 Compare & pull
         + <a href="https://www.acmicpc.net/problem/2941">크로아티아 알파벳</a>
         </td>
     </tr>
+    <tr>
+        <td rowspan='2'>2주차</td>
+        <td>A조</td>
+        <td>정렬 </td>
+        <td>
+        1. <a href="https://www.acmicpc.net/problem/18870">좌표 압축</a><br/>
+        2. <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=1210&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&">Ladder1</a><br/>
+        3. <a href="https://www.acmicpc.net/problem/1316">그룹 단어 체커</a><br/>
+        4. <a href="https://leetcode.com/problems/sum-of-digits-in-base-k/">Sum of Digits in Base K</a><br/> 
+        5. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째 수</a><br/>
+        </td>
+        <td>
+        + <a href="#">선택 문제</a>
+        </td>
+    </tr>
+    <tr>
+        <td>B조</td>
+        <td>배열</td>
+        <td>
+        1. <a href="https://www.acmicpc.net/problem/4344">평균은 넘겠지</a><br/>
+        2. <a href="https://www.acmicpc.net/problem/10809">알파벳 찾기</a><br/>
+        3. <a href="https://www.acmicpc.net/problem/2941">크로아티아 알파벳</a><br/>
+        4. <a href="https://www.acmicpc.net/problem/1712">손익분기점</a><br/>
+        5. <a href="#">문제 이름</a><br/>
+        </td>
+        <td>
+        + <a href="#">선택 문제</a>
+        </td>
+    </tr>    
 </table>
