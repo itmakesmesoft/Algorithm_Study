@@ -16,18 +16,18 @@
 </br>
 
 ## Participants
-- **A조**
+- **PYTHON TEAM**
     - [이은혁](https://github.com/itmakesmesoft)</br>
     - [김유나](https://github.com/yuna872)</br>
-    - [최종욱]()</br>
     - [류한일](https://github.com/cooopang)</br>
-    - [양가영]()</br>
-
-- **B조**
-    - [신한국](https://github.com/dlfnek)</br>
     - [나혜승](https://github.com/HyeseungNA)</br>
     - [김현서]()</br>
     - [박현영]()</br>
+
+- **JAVA TEAM**
+    - [신한국](https://github.com/dlfnek)</br>
+    - [최종욱]()</br>
+    - [양가영]()</br>
 </br>
 
 
@@ -43,7 +43,7 @@
         <td>선택문제</td>
     <tr>
         <td rowspan='2'>3주차</td>
-        <td>A조</td>
+        <td>PYTHON TEAM</td>
         <td>문제 유형을 적어주세요</td>
         <td>
         1. <a href="#">문제 이름</a><br/>
@@ -57,7 +57,7 @@
         </td>
     </tr>
     <tr>
-        <td>B조</td>
+        <td>JAVA TEAM</td>
         <td>문제 유형을 적어주세요</td>
         <td>
         1. <a href="#">문제 이름</a><br/>
@@ -189,13 +189,16 @@ push 완료 후 본인 계정의 github 저장소에 들어오면 Compare & pull
               <td>규정</td><td>내용</td>
             </tr>
             <tr>
-                <td>라이브 스터디 무단 결석</br>(부득이한 사정으로 참석 불가능한 경우</br>당일 오후 6시 까지 미리 공지)</td><td>경고 1회</td>
+                <td>라이브 스터디 무단 결석</br></td><td>경고 1회</td>
             </tr>
             <tr>
-                <td>코드리뷰 무단 결석</br>(부득이한 사정으로 참석 불가능한 경우</br>전일 오후 6시 까지 미리 공지)</td><td>경고 1회 및 벌칙 코드 작성</td>
+                <td>코드리뷰 무단 결석</td><td>경고 1회</td>
             </tr>
             <tr>
-                <td colspan= '2'> - 지각 2회 시 1회 경고</br> - 경고 3회 누적 시 퇴출</br> - 매월 1일 경고 리셋</td>
+                <td>그 외 불성실하게 참여하는 경우</td><td>경고 1회</td>
+            </tr>
+            <tr>
+                <td colspan= '2'> - 지각 2회 시 1회 경고</br> - 경고 2회 누적 시 퇴출</br> - 매월 1일 경고 리셋</br> - 팀 내 분위기를 저해하는 경우 경고 없이 퇴출</td>
             </tr>
         </table>
     </div>
