@@ -99,7 +99,7 @@ $ git push
 
 ### 4. 로컬 Repo 폴더에 본인 이름(한글) 폴더 생성 후, 스터디 인증 파일 넣기
 </br>
-<img src="./etc/참고이미지.png" style="position: relative; margin-left: 45px; margin-bottom: 20px;">
+<img src="./source/참고이미지.png" style="position: relative; margin-left: 45px; margin-bottom: 20px;">
 </br>
 
 ### 5. 로컬 Repository (본인 이름 폴더 내)에서 Git Bash 실행</br>
@@ -158,9 +158,9 @@ push 완료 후 본인 계정의 github 저장소에 들어오면 Compare & pull
 해당 버튼을 선택하여 메시지를 작성하고 PR을 생성.
 
 </br>
-<img src="./etc/1.png" style="position: relative; margin-left: 45px; margin-bottom: 20px;">
+<img src="./source/1.png" style="position: relative; margin-left: 45px; margin-bottom: 20px;">
 </br>
-<img src="./etc/2.png" style="position: relative; margin-left: 45px; margin-bottom: 20px;">
+<img src="./source/2.png" style="position: relative; margin-left: 45px; margin-bottom: 20px;">
 </br>
 
 
