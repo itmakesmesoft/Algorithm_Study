@@ -16,7 +16,7 @@
 </br>
 
 ## Participants
-- **PYTHON TEAM**
+- **PYTHON**
     - [이은혁](https://github.com/itmakesmesoft)</br>
     - [김유나](https://github.com/yuna872)</br>
     - [류한일](https://github.com/cooopang)</br>
@@ -24,7 +24,7 @@
     - [김현서]()</br>
     - [박현영]()</br>
 
-- **JAVA TEAM**
+- **JAVA**
     - [신한국](https://github.com/dlfnek)</br>
     - [최종욱]()</br>
     - [양가영]()</br>
@@ -43,22 +43,22 @@
         <td>선택문제</td>
     <tr>
         <td rowspan='2'>3주차</td>
-        <td>PYTHON TEAM</td>
-        <td>문제 유형을 적어주세요</td>
+        <td>PYTHON</td>
+        <td>배열</td>
         <td>
-        1. <a href="#">문제 이름</a><br/>
-        2. <a href="#">문제 이름</a><br/>
+        1. <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LsaaqDzYDFAXc">진기의 최고급 붕어빵</a><br/>
+        2. <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV7GKs06AU0DFAXB&categoryId=AV7GKs06AU0DFAXB&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=1">N-Queen</a><br/>
         3. <a href="#">문제 이름</a><br/>
         4. <a href="#">문제 이름</a><br/>
         5. <a href="#">문제 이름</a><br/>
         </td>
         <td>
-        + <a href="#">선택 문제</a>
+        + <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=1">[S/W 문제해결 기본] 5일차 - Magnetic</a>
         </td>
     </tr>
     <tr>
-        <td>JAVA TEAM</td>
-        <td>문제 유형을 적어주세요</td>
+        <td>JAVA</td>
+        <td>문제 유형</td>
         <td>
         1. <a href="#">문제 이름</a><br/>
         2. <a href="#">문제 이름</a><br/>
